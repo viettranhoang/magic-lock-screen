@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bloquear pantalla</string>
+    <string name="notification_message">¡El servicio se está ejecutando!</string>
+    <string name="double_tap_btn">Doble toque</string>
+    <string name="double_tap_info">Toca dos veces en la pantalla de inicio para apagar la pantalla</string>
+    <string name="floating_popup_info">Pantalla activar / desactivar más rápido</string>
+    <string name="create_shortcut_btn">Crear acceso directo</string>
+    <string name="create_shortcut_info">Crear acceso directo en la pantalla de inicio para apagar rápidamente la pantalla</string>
+    <string name="vibrate_btn">"Vibrar "</string>
+    <string name="vibrate_info">" Vibrar cuando la pantalla se enciende / apaga automáticamente"</string>
+    <string name="except_app_btn">"Excepto la aplicación "</string>
+    <string name="except_app_info">No enciende / apaga la pantalla cuando se ejecuta la aplicación que es la lista de excepciones</string>
+    <string name="language_btn">"Idioma "</string>
+    <string name="uninstall_btn">"Desinstalar "</string>
+    <string name="remove_permission_btn">Desactivar administrador de dispositivos</string>
+    <string name="floating_popup_btn">Ventana emergente flotante</string>
+    <string name="language_btn_vi">Vietnamese</string>
+    <string name="language_btn_en">English</string>
+    <string name="language_btn_ja">Japanese</string>
+    <string name="language_btn_th">Thai</string>
+    <string name="language_btn_pt">Portuguese</string>
+    <string name="language_btn_es">Spanish</string>
+    <string name="successful">Exitoso</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khóa màn hình ma thuật</string>
+    <string name="notification_message">Dịch vụ đang chạy!</string>
+    <string name="double_tap_btn">Chạm 2 lần</string>
+    <string name="double_tap_info">Nhấn đúp 2 lần vào màn hình chính để tắt màn hình</string>
+    <string name="floating_popup_btn">Phím nổi</string>
+    <string name="floating_popup_info">"Nhanh chóng tắt màn hình bằng 1 nút bấm "</string>
+    <string name="create_shortcut_btn">Tạo lối tắt</string>
+    <string name="create_shortcut_info">Tạo lối tắt trên màn hình chính để tắt màn hình</string>
+    <string name="vibrate_btn">Rung</string>
+    <string name="vibrate_info">Rung khi bật tắt màn hình</string>
+    <string name="except_app_btn">Ứng dụng ngoại lệ</string>
+    <string name="except_app_info">Không tắt màn hình khi đang sử dụng những ứng dụng được chọn trong danh sách</string>
+    <string name="language_btn">Ngôn ngữ</string>
+    <string name="remove_permission_btn">Vô hiệu hóa quản trị viên</string>
+    <string name="uninstall_btn">Gỡ ứng dụng</string>
+    <string name="language_btn_vi">Vietnamese</string>
+    <string name="language_btn_en">English</string>
+    <string name="language_btn_ja">Japanese</string>
+    <string name="language_btn_th">Thai</string>
+    <string name="language_btn_pt">Portuguese</string>
+    <string name="language_btn_es">Spanish</string>
+    <string name="successful">Thành công</string>
+</resources>

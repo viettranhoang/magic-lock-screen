@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Magic Look Screen</string>
+    <string name="notification_message">" O serviço está sendo executado!"</string>
+    <string name="double_tap_info">toque duas vezes na tela inicial para desativar a tela</string>
+    <string name="floating_popup_info">"Tela ativar / desativar rapidamente "</string>
+    <string name="create_shortcut_btn">Criar atalho</string>
+    <string name="create_shortcut_info">" Criar atalho na tela inicial para desligar rapidamente a tela"</string>
+    <string name="vibrate_btn">Vibrar</string>
+    <string name="vibrate_info">Vibrar quando a tela liga / desliga automaticamente</string>
+    <string name="except_app_info">Não liga / desliga a tela ao executar o aplicativo que é a lista de exceções</string>
+    <string name="language_btn">"Idioma "</string>
+    <string name="uninstall_btn">"Desinstalar "</string>
+    <string name="remove_permission_btn">Desativar o administrador do dispositivo</string>
+    <string name="except_app_btn">Excepto a aplicação</string>
+    <string name="floating_popup_btn">Popup flutuante</string>
+    <string name="double_tap_btn">Toque duplo</string>
+    <string name="language_btn_vi">Vietnamese</string>
+    <string name="language_btn_en">English</string>
+    <string name="language_btn_ja">Japanese</string>
+    <string name="language_btn_th">Thai</string>
+    <string name="language_btn_pt">Portuguese</string>
+    <string name="language_btn_es">Spanish</string>
+    <string name="successful">Bem sucedido</string>
+</resources>

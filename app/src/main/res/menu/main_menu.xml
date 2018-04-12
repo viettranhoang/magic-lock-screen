@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/main_btn_language"
+        android:title="@string/language_btn">
+
+        <menu>
+            <item
+                android:id="@+id/language_vi"
+                android:title="@string/language_btn_vi" />
+            <item
+                android:id="@+id/language_en"
+                android:title="@string/language_btn_en" />
+            <item
+                android:id="@+id/language_es"
+                android:title="@string/language_btn_es" />
+            <item
+                android:id="@+id/language_pt"
+                android:title="@string/language_btn_pt" />
+            <item
+                android:id="@+id/language_th"
+                android:title="@string/language_btn_th" />
+            <item
+                android:id="@+id/language_ja"
+                android:title="@string/language_btn_ja" />
+        </menu>
+
+
+    </item>
+
+
+    <item
+        android:id="@+id/main_btn_remove_permission"
+        android:title="@string/remove_permission_btn" />
+
+    <item
+        android:id="@+id/main_btn_uninstall"
+        android:title="@string/uninstall_btn" />
+</menu>

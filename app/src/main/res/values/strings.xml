@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Magic Look Screen</string>
+    <string name="notification_message">Service is running!</string>
+
+    <string name="double_tap_btn">Double Tap</string>
+    <string name="double_tap_info">Double tap on Home screen to turn off screen</string>
+    <string name="floating_popup_btn">Floating Popup</string>
+    <string name="floating_popup_info">Screen turn On/Off faster</string>
+    <string name="create_shortcut_btn">Create Shortcut</string>
+    <string name="create_shortcut_info">Create shortcut on home screen to quickly turn off screen</string>
+    <string name="vibrate_btn">Vibrate</string>
+    <string name="vibrate_info">Vibrate when screen turn On/Off automatically</string>
+    <string name="except_app_btn">Except App</string>
+    <string name="except_app_info">Dont turn On/Off the screen when running app that is the exceptions list</string>
+    <string name="language_btn">Language</string>
+    <string name="remove_permission_btn">Deactivete Device Administrator</string>
+    <string name="uninstall_btn">Uninstall</string>
+    <string name="successful">Successful</string>
+
+    <string name="language_btn_vi">Vietnamese</string>
+    <string name="language_btn_en">English</string>
+    <string name="language_btn_ja">Japanese</string>
+    <string name="language_btn_pt">Portuguese</string>
+    <string name="language_btn_es">Spanish</string>
+    <string name="language_btn_th">Thai</string>
+</resources>

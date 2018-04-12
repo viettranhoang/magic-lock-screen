@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">หน้าจอวิเศษ</string>
+    <string name="notification_message">"บริการกำลังทำงาน! "</string>
+    <string name="double_tap_btn">เคาะสองครั้ง</string>
+    <string name="double_tap_info">แตะสองครั้งที่หน้าจอหลักเพื่อปิดหน้าจอ</string>
+    <string name="floating_popup_btn">ป๊อปอัปแบบลอย</string>
+    <string name="floating_popup_info">" เปิดหน้าจอ / ปิดเร็วขึ้น"</string>
+    <string name="create_shortcut_btn">สร้างทางลัด</string>
+    <string name="create_shortcut_info">"สร้างทางลัดบนหน้าจอหลักเพื่อปิดหน้าจออย่างรวดเร็ว "</string>
+    <string name="vibrate_btn">สั่นสะเทือน</string>
+    <string name="vibrate_info">สั่นเมื่อหน้าจอเปิด / ปิดโดยอัตโนมัติ</string>
+    <string name="except_app_btn">ยกเว้น</string>
+    <string name="except_app_info">อย่าเปิด / ปิดหน้าจอเมื่อเรียกใช้แอพที่เป็นข้อยกเว้น</string>
+    <string name="language_btn">" ภาษา"</string>
+    <string name="remove_permission_btn">"ผู้ดูแลระบบอุปกรณ์ที่ยกเลิกการทำงาน "</string>
+    <string name="uninstall_btn">" ถอนการติดตั้ง "</string>
+    <string name="language_btn_vi">Vietnamese</string>
+    <string name="language_btn_en">English</string>
+    <string name="language_btn_ja">Japanese</string>
+    <string name="language_btn_th">Thai</string>
+    <string name="language_btn_pt">Portuguese</string>
+    <string name="language_btn_es">Spanish</string>
+    <string name="successful">ที่ประสบความสำเร็จ</string>
+</resources>

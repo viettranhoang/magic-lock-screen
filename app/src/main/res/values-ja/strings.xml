@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ロック画面</string>
+    <string name="notification_message">サービスが実行中です！</string>
+    <string name="double_tap_btn">ダブルタップ</string>
+    <string name="double_tap_info">ホーム画面をダブルタップして画面をオフにします</string>
+    <string name="floating_popup_btn">フローティングポップアップ</string>
+    <string name="floating_popup_info">画面のオン/オフを速くする</string>
+    <string name="create_shortcut_btn">ショートカットを作成する</string>
+    <string name="create_shortcut_info">ホーム画面にショートカットを作成して画面をすばやくオフにします</string>
+    <string name="vibrate_btn">振動</string>
+    <string name="vibrate_info">画面が自動的にオン/オフになったときに振動する</string>
+    <string name="except_app_btn">アプリケーションを除</string>
+    <string name="except_app_info">例外リストであるアプリケーションを実行しているときに画面をオン/オフしないでください</string>
+    <string name="language_btn">言語</string>
+    <string name="remove_permission_btn">管理者を無効にする</string>
+    <string name="uninstall_btn">アンインストール</string>
+    <string name="language_btn_vi">Vietnamese</string>
+    <string name="language_btn_en">English</string>
+    <string name="language_btn_ja">Japanese</string>
+    <string name="language_btn_th">Thai</string>
+    <string name="language_btn_pt">Portuguese</string>
+    <string name="language_btn_es">Spanish</string>
+    <string name="successful">成功した</string>
+</resources>
